@@ -1,7 +1,5 @@
 FROM extvos/centos
-
 MAINTAINER  "Mingcai SHEN <archsh@gmail.com>"
-
 ENV MYSQL_MAJOR 5.6
 ENV MYSQL_VERSION 5.6.26
 
